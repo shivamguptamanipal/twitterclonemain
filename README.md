@@ -1,7 +1,29 @@
 # Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)
 
-![Fullstack Twitter Clone (2)](https://user-images.githubusercontent.com/23248726/224405420-03112a76-250a-4283-992c-60e235170678.png)
+Made by Shivam Gupta 
 
+Email id shivam.199302115@muj.manipal.edu
+
+As a part of Algo8 AI job application.
+
+
+
+This is hosted using vercel 
+
+
+![Fullstack Twitter Clone (2)]
+
+https://drive.google.com/file/d/1T_6QwVa4hoF1qeqxhGRuBib2MQldNTPk/view?usp=sharing
+
+https://drive.google.com/file/d/1T_6QwVa4hoF1qeqxhGRuBib2MQldNTPk/view?usp=sharing
+
+
+
+
+This is the official link that is deployed on cloud.
+
+
+https://twitter-musk.vercel.app/#/
 
 This is a repository for a FullStack Twitter clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
@@ -53,10 +75,7 @@ NEXTAUTH_SECRET=
 npm run dev
 ```
 
-## Available commands
+Made by Shivam Gupta 
 
-Running commands with npm `npm run [command]`
+Email id shivam.199302115@muj.manipal.edu
 
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
